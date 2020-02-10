@@ -1,0 +1,12 @@
+{
+    "name" : "Komang",
+    "email" : "",
+    "password" : "Rahasia",
+    "secret" : "Rahasia",
+    "database": {
+      "development": {
+        "uri": "mongodb://localhost:27017/tokosampah"
+      }
+    }
+  }
+  
